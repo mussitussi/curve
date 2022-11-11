@@ -9,10 +9,8 @@ graph RL
   GroupF --> Segment3
   GroupG --> Segment3
   GroupH --> Segment3
-
   Segment1 --> SegmentLeaderK
   Segment2 --> SegmentLeaderK
   Segment3 --> SegmentLeaderL
 
-  
 ```
